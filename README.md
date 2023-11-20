@@ -1,5 +1,10 @@
 # Analyzing-AQI
 
+
+# Description:
+The "Air Quality Monitoring and Analysis with Raspberry Pi and AWS" project aims to create a comprehensive system for monitoring, data collection, ETL (Extract, Transform, Load), and visualization of air quality in the city. Poor air quality is a critical global issue, and this project addresses it by leveraging the capabilities of Raspberry Pi for data collection and AWS for data processing and analysis.
+
+
 # Data collection
 We are using Raspberry Pi device to collect the dataset.
 We will use MQ sensors and DHT21 sensor to find Smoke, Methane, Carbon Monoxide, Temperature, Humidity and Air quality from the air.
