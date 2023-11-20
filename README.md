@@ -6,8 +6,8 @@ The "Air Quality Monitoring and Analysis with Raspberry Pi and AWS" project aims
 
 
 # Data collection
-We are using Raspberry Pi device to collect the dataset.
-We will use MQ sensors and DHT21 sensor to find Smoke, Methane, Carbon Monoxide, Temperature, Humidity and Air quality from the air.
+We are using a Raspberry Pi device to collect the dataset.
+We will use MQ sensors and DHT21 sensors to find Smoke, Methane, Carbon Monoxide, Temperature, Humidity, and Air quality from the air.
 
 
 # Hardware:
@@ -40,4 +40,10 @@ We will use MQ sensors and DHT21 sensor to find Smoke, Methane, Carbon Monoxide,
 - AOUT pin of each MQ sensor to an analog channel of the MCP3008.
 - GND of each MQ sensor to the GND on the breadboard.
 - VCC of each MQ sensor to the VCC on the breadboard.
+
+
+**MQ Sensors Amazon URL:**
+https://www.amazon.com/Detection-Sensor-Module-MQ-135-Arduino/dp/B092L81VXB/ref=sr_1_1_sspa?keywords=mq+sensors&qid=1700498217&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+
 
